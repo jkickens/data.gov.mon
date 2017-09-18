@@ -1,0 +1,9 @@
+Searching for resources containing: climate
+Total number of resources: 8151
+HTTP Links: 74089
+FTP Links: 5799
+Good links: 70967
+Bad Links: 10530
+Unknown: 0
+See detailed report in data.gov_mon_rpt_09_11_2017.csv
+Elapsed Time: 27073 seconds
